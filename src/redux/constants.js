@@ -1,0 +1,1 @@
+export const MOCK_API_BASE = 'https://63f667109daf59d1ad886c37.mockapi.io';
